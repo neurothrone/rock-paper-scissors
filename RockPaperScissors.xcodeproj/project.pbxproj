@@ -15,6 +15,8 @@
 		2F0659F628E94B8C0015A30E /* RoundTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F0659F528E94B8C0015A30E /* RoundTextView.swift */; };
 		2F0659F828E954380015A30E /* RoundResultsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F0659F728E954380015A30E /* RoundResultsView.swift */; };
 		2F0659FA28E9544C0015A30E /* RoundResult.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F0659F928E9544C0015A30E /* RoundResult.swift */; };
+		2F0659FD28E95A100015A30E /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 2F0659FB28E95A100015A30E /* LICENSE */; };
+		2F0659FE28E95A100015A30E /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 2F0659FC28E95A100015A30E /* README.md */; };
 		2F9467F128E7ED870044AD08 /* RockPaperScissorsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F9467F028E7ED870044AD08 /* RockPaperScissorsApp.swift */; };
 		2F9467F528E7ED870044AD08 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2F9467F428E7ED870044AD08 /* Assets.xcassets */; };
 		2F9467F928E7ED870044AD08 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2F9467F828E7ED870044AD08 /* Preview Assets.xcassets */; };
@@ -29,6 +31,8 @@
 		2F0659F528E94B8C0015A30E /* RoundTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundTextView.swift; sourceTree = "<group>"; };
 		2F0659F728E954380015A30E /* RoundResultsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundResultsView.swift; sourceTree = "<group>"; };
 		2F0659F928E9544C0015A30E /* RoundResult.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundResult.swift; sourceTree = "<group>"; };
+		2F0659FB28E95A100015A30E /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		2F0659FC28E95A100015A30E /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		2F9467ED28E7ED870044AD08 /* RockPaperScissors.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RockPaperScissors.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2F9467F028E7ED870044AD08 /* RockPaperScissorsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RockPaperScissorsApp.swift; sourceTree = "<group>"; };
 		2F9467F428E7ED870044AD08 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -61,6 +65,8 @@
 		2F9467E428E7ED870044AD08 = {
 			isa = PBXGroup;
 			children = (
+				2F0659FB28E95A100015A30E /* LICENSE */,
+				2F0659FC28E95A100015A30E /* README.md */,
 				2F9467EF28E7ED870044AD08 /* RockPaperScissors */,
 				2F9467EE28E7ED870044AD08 /* Products */,
 			);
@@ -172,7 +178,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2F0659FD28E95A100015A30E /* LICENSE in Resources */,
 				2F9467F928E7ED870044AD08 /* Preview Assets.xcassets in Resources */,
+				2F0659FE28E95A100015A30E /* README.md in Resources */,
 				2F9467F528E7ED870044AD08 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
